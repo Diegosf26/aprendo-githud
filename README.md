@@ -1,4 +1,4 @@
-# aprendo-githud
+# repositorio curso de git
 Primero repo creado por GitHud
 
 ## descripcion
